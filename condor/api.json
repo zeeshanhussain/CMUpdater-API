@@ -1,13 +1,14 @@
 {
  "id": null,
- "result": [
- {
-    "filename": "cm-13.0-20160122-UNOFFICIAL-condor.zip",
-    "url": "http://qc4.androidfilehost.com/dl/j9KGKgtoruRO8VWOgR7dnA/1453705462/24385226645962778/cm-13.0-20160122-UNOFFICIAL-condor.zip",
-       "md5sum": "31ebb3253490b30f5029729a79c15982",
-    "api_level": "23",
+ "result": [ 
+{
+    "url" : "http://qc4.androidfilehost.com/dl/j9KGKgtoruRO8VWOgR7dnA/1453705462/24385226645962778/cm-13.0-20160122-UNOFFICIAL-condor.zip",
     "timestamp": "1453475107",
-    "channel": "",
+    "api_level": "23",
+    "md5sum": "31ebb3253490b30f5029729a79c15982",
+    "filename": "cm-13.0-20160122-UNOFFICIAL-condor.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
     "incremental": ""
     },
     
