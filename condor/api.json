@@ -12,6 +12,17 @@
     "incremental": ""
     },
     
+{
+    "url" : "http://qc4.androidfilehost.com/dl/1s4uwGivV5ICrYPkYQ_oJw/1454290811/24391638059058486/cm-13.0-20160129-UNOFFICIAL-condor.zip",
+    "timestamp": "1454060478",
+    "api_level": "23",
+    "md5sum": "a29f6984d72717ba8ffcf357b9e14431",
+    "filename": "cm-13.0-20160129-UNOFFICIAL-condor.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+    
   ],
  "error": null
 }
